@@ -254,5 +254,5 @@ Function Prototypes
 
 ## Author
 * __Matthew Joy__ <[GitHub](https://github.com/jo-esign)>
-* __Nishwariya Sharma__ <[GitHub](https://github.com/Nishwariya)>
+* __Nishwariya Sharma__ <[GitHub](https://github.com/Nishwariya)>(nishwariya01@gmail.com)
 
