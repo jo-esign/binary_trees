@@ -17,6 +17,9 @@ binary_tree_t *binary_tree_uncle(binary_tree_t *node)
 	if (node->parent->parent->left == node->parent)
 		return (node->parent->parent->right);
 	return (node->parent->parent->left);
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 3468bb6ff1be8b7d42bbb4dbdc538112e11ec8bf
 }
